@@ -1,0 +1,8 @@
+.env
+service_account.json
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+ruvector.db
+edital-flow-tracker/.dev.vars
+edital-flow-tracker/.wrangler/

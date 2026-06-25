@@ -1,0 +1,5 @@
+# Copie para .dev.vars e preencha (NÃO commitar .dev.vars).
+# SHEET_ID = id da planilha nova dos editais (entre /d/ e /edit na URL).
+SHEET_ID=
+# SHARED_TOKEN = qualquer segredo forte; o ManyChat manda ?token=... igual a esse.
+SHARED_TOKEN=
