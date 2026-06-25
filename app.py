@@ -212,7 +212,7 @@ def _check_password() -> bool:
     if pwd:
         if pwd == expected:
             st.session_state["auth_ok"] = True
-            return True
+            st.rerun()
         st.error("Senha incorreta.")
     return False
 
